@@ -1,7 +1,7 @@
 {
   "name": "@odva/react-native-appmetrica",
   "title": "Yandex AppMetrica React Native Plugin",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Native plugin for AppMetrica analytics tool | Modified by Odva ",
   "main": "index.оs",
   "nativePackage": true,
