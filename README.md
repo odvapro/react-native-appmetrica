@@ -4,7 +4,7 @@ React Native bridge to the [AppMetrica](https://appmetrica.yandex.com/) on both 
 
 ## Installation
 
-1. добавить в package.json
+1. добавить в package.json в dependencies
    "@odva/react-native-appmetrica": "git+https://github.com/odvapro/react-native-appmetrica.git",
 2. iOS only `npx pod-install`
 
