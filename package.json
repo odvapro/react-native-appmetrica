@@ -9,14 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/odvapro/react-native-appmetrica.git"
   },
-  "comments":{
-	"url-git":"Добавить в репозиторий ссылку на гит",
-	"homepage":"добавить homepage, ссылку на notion с описанием"
-  },
+  "homepage": "https://github.com/odvapro/react-native-appmetrica",
   "keywords": [
-	"odva",
+    "odva",
     "yandex",
     "appmetrica",
     "metrica",
@@ -34,6 +32,5 @@
   "peerDependencies": {
     "react-native": ">=0.63.4"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
