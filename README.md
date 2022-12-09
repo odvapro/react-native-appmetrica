@@ -4,14 +4,14 @@ React Native bridge to the [AppMetrica](https://appmetrica.yandex.com/) on both 
 
 ## Installation
 
-1. добавить в package.json 
-"@odva/react-native-appmetrica": "git+https://github.com/odvapro/react-native-appmetrica.git",
+1. добавить в package.json
+   "@odva/react-native-appmetrica": "git+https://github.com/odvapro/react-native-appmetrica.git",
 2. iOS only `npx pod-install`
 
 ## Usage
 
 ```js
-import AppMetrica from "odva/react-native-appmetrica";
+import AppMetrica from "@odva/react-native-appmetrica";
 
 // Starts the statistics collection process.
 AppMetrica.activate({
