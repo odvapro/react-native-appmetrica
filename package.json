@@ -1,0 +1,39 @@
+{
+  "name": "@odva/react-native-appmetrica",
+  "title": "Yandex AppMetrica React Native Plugin",
+  "version": "2.0.0",
+  "description": "React Native plugin for AppMetrica analytics tool | Modified by Odva ",
+  "main": "index.оs",
+  "nativePackage": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "comments":{
+	"url-git":"Добавить в репозиторий ссылку на гит",
+	"homepage":"добавить homepage, ссылку на notion с описанием"
+  },
+  "keywords": [
+	"odva",
+    "yandex",
+    "appmetrica",
+    "metrica",
+    "analytics",
+    "tracking",
+    "react-native",
+    "ecosystem:react-native",
+    "react-native-ios",
+    "react-native-android"
+  ],
+  "author": {
+    "name": "YANDEX LLC"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.63.4"
+  },
+  "devDependencies": {
+  }
+}
