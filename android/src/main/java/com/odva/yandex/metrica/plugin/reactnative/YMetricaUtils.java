@@ -1,4 +1,4 @@
-package com.gennadysx.yandex.metrica.plugin.reactnative;
+package com.odva.yandex.metrica.plugin.reactnative;
 
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
