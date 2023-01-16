@@ -4,7 +4,7 @@ React Native bridge to the [AppMetrica](https://appmetrica.yandex.com/) on both 
 
 ## Installation
    
-1. прописать в терминале: echo "\n[url \"ssh://git@github.com/\"]\n\tinsteadOf = https://github.com/" >> ~/.gitconfig
+1. прописать в терминале: echo "\n[url \\"ssh://git@github.com/\\"]\n\tinsteadOf = https://github.com/" >> ~/.gitconfig
 2. или добавить вручную в .gitconfig [url "ssh://git@github.com/"]
    insteadOf = https://github.com/
 3. добавить в package.json в dependencies
